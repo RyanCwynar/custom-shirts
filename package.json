@@ -29,7 +29,7 @@
     "lodash": "^4.17.14",
     "mongoose": "^5.8.4",
     "node-cron": "^1.2.1",
-    "validator": "^10.9.0",
+    "validator": "^13.7.0",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
